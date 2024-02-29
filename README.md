@@ -1,4 +1,4 @@
-# Block-Crawler
+# Block-Crawler Mini-Project
 
 This python program retrieves Ethereum Mainnet transactions within a given block range and persists them to a SQLite database.
 
